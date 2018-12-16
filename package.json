@@ -1,0 +1,21 @@
+{
+  "name": "carbonemissioncalculationinterface",
+  "version": "1.0.0",
+  "description": "Carbon Emission Calculation Interface",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "dibaloke",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.4.0",
+    "electron": "^3.0.3",
+    "font-awesome": "^4.7.0",
+    "mysql": "^2.16.0",
+    "python-shell": "^1.0.6"
+  },
+  "devDependencies": {
+    "electron-packager": "^13.0.1"
+  }
+}
